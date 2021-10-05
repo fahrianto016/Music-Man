@@ -55,6 +55,12 @@
 - `.no` - disapproove someone to pm you
 + Sudo Users can execute any command in any groups
 
+## Heroku Deployment 💜
+
+The easy way to host this bot, deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fahrianto016/Music-Man)
+
 ### Credits
 Don't edit this part
 
